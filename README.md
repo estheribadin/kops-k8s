@@ -72,7 +72,7 @@ You Created. --> Save.
 	aws s3 mb s3://esty
 	aws s3 ls
 	
-    ex: s3://class29v
+    ex: s3://esty
      
 	Expose environment variable:
 
